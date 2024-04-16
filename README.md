@@ -2,6 +2,10 @@
 
 This is the original version of Velvet Practice. The later Dragonfly version is available [here](https://github.com/HashimTheArab/velvet-df).
 
+## sponsors
+
+check out my new app [Lunar](https://lunarproxy.net) for minecraft cheats
+
 ## lifespan
 
 This project began in June 2020, the last commit was in June 2022. ngl so glad i left it and i shouldve way sooner lol
