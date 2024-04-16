@@ -1,0 +1,72 @@
+---
+name: Velvet
+main: Prim\Velvet\Main
+api: 4.0.0
+version: 3.2.0
+author: Prim
+permissions:
+  velvet.multiworld:
+    default: op
+  velvet.ranks.manage:
+    default: op
+  velvet.ranks.edit:
+    default: op
+  velvet.ranks.view:
+    default: op
+  velvet.command.stop:
+    default: op
+  velvet.command.op:
+    default: op
+  velvet.stats.manage:
+    default: op
+  test.command:
+    default: op
+  antispam.false:
+    default: op
+  velvet.tags.manage:
+    default: op
+  velvet.vanish:
+    default: op
+  vanish.use.other:
+    default: op
+  velvet.sudo:
+    default: op
+  velvet.playerinfo:
+    default: op
+  velvet.leaderboards.manage:
+    default: op
+  velvet.event:
+    default: op
+  velvet.build:
+    default: op
+  velvet.bans.manage:
+    default: op
+  velvet.socialspy:
+    default: op
+  velvet.stealskin:
+    default: op
+  velvet.kick:
+    default: op
+  velvet.freeze:
+    default: op
+  velvet.forcetell:
+    default: op
+  velvet.alias:
+    default: op
+  velvet.nick:
+    default: op
+  builduhc.reset:
+    default: op
+  pot.color:
+    default: op
+  pot.custom:
+    default: op
+  cape.use:
+    default: op
+  tag.change:
+    default: op
+  anticheat.alert:
+    default: op
+  anticheat.command:
+    default: op
+...

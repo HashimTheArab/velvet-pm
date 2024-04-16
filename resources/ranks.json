@@ -1,0 +1,109 @@
+{
+	"Normie": {
+		"alias": "",
+		"isDefault": "true",
+		"inheritance": [],
+		"permissions": [],
+		"chat": "§a[{kills}] §8[Normie] §r{prefix}§a{display_name} §b> §7{msg}",
+		"nametag": "§8[Normie] §7{display_name}"
+	},
+	"VIP": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": [],
+		"permissions": ["antispam.false", "cape.use", "toys.use"],
+		"chat": "§b[{kills}] §2[§aVIP§2] §r{prefix}§2{display_name} §3> §a{msg}",
+		"nametag": "§2[§aVIP§2] §2{display_name}"
+	},
+	"Ravager": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": ["VIP"],
+		"permissions": ["pot.color"],
+		"chat": "§0[{kills}] §4[§cRavager§4] §r{prefix}§4{display_name} §3> §c{msg}",
+		"nametag": "§c[Ravager]§4 {display_name}"
+	},
+	"Hyperedge": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": ["Ravager"],
+		"permissions": ["velvet.stealskin", "pot.custom", "velvet.nick"],
+		"chat": "§6[{kills}] §g[Hyperedge] §r{prefix}§6{display_name} §g> §e{msg}",
+		"nametag": "§g[Hyperedge]§6 {display_name}"
+	},
+	"Custom": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": ["Hyperedge"],
+		"permissions": [],
+		"chat": "",
+		"nametag": ""
+	},
+	"YouTuber": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": [],
+		"permissions": ["velvet.stealskin", "velvet.nick"],
+		"chat": "§a[{kills}] §l§8[§4You§r§lTuber§8] §r{prefix}§a{display_name} §b> §r{msg}",
+		"nametag": "§8[§4You§fTuber§8] §4{display_name}"
+	},
+	"Famous": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": ["YouTuber"],
+		"permissions": [],
+		"chat": "§4[{kills}] §c[Famous] §r{prefix}{display_name} §4> §c{msg}",
+		"nametag": "§8§l[Famous]§f§r {display_name}"
+	},
+	"Builder": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": [],
+		"permissions": [],
+		"chat": "§a[{kills}] §l§8[§cBuilder§8] §r{prefix}§a{display_name} §b> §r{msg}",
+		"nametag": "§8[§cBuilder§8] §b{display_name}"
+	},
+	"Builder+": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": [],
+		"permissions": ["mw.cmd.list", "mw.cmd.teleport", "pocketmine.command.gamemode"],
+		"chat": "§a[{kills}] §l§8[§cBuilder+§8] §r{prefix}§a{display_name} §e> §7{msg}",
+		"nametag": "§8§l[§l§cBuilder+§r§8]§f§r {display_name}"
+	},
+	"Trainee": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": [],
+		"permissions": ["ac.alerts", "ac.command.logs", "antispam.false", "cape.use", "velvet.alias", 
+			"velvet.forcetell", "velvet.kick", "velvet.playerinfo", "velvet.socialspy",
+			"velvet.staffmode", "velvet.stealskin", "velvet.unban", "velvet.vanish",
+			"pocketmine.command.teleport", "pocketmine.command.time.set", "pot.color", "pot.custom", "velvet.freeze", "velvet.nick"],
+		"chat": "§5[{kills}] §d[Trainee] §r{prefix}§d{display_name} §l§4> §r§d{msg}",
+		"nametag": "§d[Trainee] {display_name}"
+	},
+	"Moderator": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": ["Trainee"],
+		"permissions": ["velvet.event", "velvet.bans.manage", "builduhc.reset"],
+		"chat": "§d[{kills}] §5[Mod] §r{prefix}§d{display_name} §c> §5{msg}",
+		"nametag": "§5[Moderator] {display_name}"
+	},
+	"Admin": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": [],
+		"permissions": [],
+		"chat": "§b[{kills}] §3[Admin] §r{prefix}§b{display_name} §l§5>> §r§b{msg}",
+		"nametag": "§3[Admin] §b{display_name}"
+	},
+	"Owner": {
+		"alias": "",
+		"isDefault": "false",
+		"inheritance": [],
+		"permissions": [],
+		"chat": "§b[{kills}] §g[Owner] §r{prefix}§b{display_name} §6> §b{msg}",
+		"nametag": "§g[Owner] §b{display_name}"
+	}
+}

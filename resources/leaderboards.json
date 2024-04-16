@@ -1,0 +1,34 @@
+{
+    "kills": {
+        "position": [
+            324,
+            68,
+            302
+        ],
+        "level": "world"
+    },
+    "deaths": {
+        "position": [
+            324,
+            68,
+            291
+        ],
+        "level": "world"
+    },
+    "kdr": {
+        "position": [
+            328,
+            68,
+            299
+        ],
+        "level": "world"
+    },
+    "topkillstreak": {
+        "position": [
+            327,
+            68,
+            293
+        ],
+        "level": "world"
+    }
+}

@@ -1,0 +1,312 @@
+{
+	"arenas": {
+		"NoDebuff1": {
+			"name": "NoDebuff1",
+			"mode": "NoDebuff",
+			"spawn1": [253, 68, 264],
+			"spawn2": [309, 68, 264],
+			"level": "duels"
+		},
+		"NoDebuff2": {
+			"name": "StadiumNoDebuff",
+			"mode": "NoDebuff",
+			"spawn1": [-4, 52, 183],
+			"spawn2": [-4, 52, 139],
+			"level": "duels"
+		},
+		"NoDebuff3": {
+			"name": "NoDebuff3",
+			"mode": "NoDebuff",
+			"spawn1": [-99.5, 42, -63.5],
+			"spawn2": [-156.5, 42, -63.5],
+			"level": "duels"
+		},
+		"NoDebuff4": {
+			"name": "IllumCats",
+			"mode": "NoDebuff",
+			"spawn1": [171, 74, 543],
+			"spawn2": [234, 75, 482],
+			"level": "duels"
+		},
+		"NoDebuff5": {
+			"name": "IllumPHub",
+			"mode": "NoDebuff",
+			"spawn1": [376, 67, 365],
+			"spawn2": [376, 67, 433],
+			"level": "duels"
+		},
+		"NoDebuff6": {
+			"name": "Ryze1",
+			"mode": "NoDebuff",
+			"spawn1": [596, 65, 755],
+			"spawn2": [533, 65, 755],
+			"level": "duels"
+		},
+		"NoDebuff7": {
+			"name": "Ryze2",
+			"mode": "NoDebuff",
+			"spawn1": [538, 64, 1013],
+			"spawn2": [601, 64, 1013],
+			"level": "duels"
+		},
+		"NoDebuff8": {
+			"name": "Ryze3",
+			"mode": "NoDebuff",
+			"spawn1": [366, 64, 1011],
+			"spawn2": [303, 64, 1011],
+			"level": "duels"
+		},
+		"Gapple1": {
+			"name": "WaterIce",
+			"mode": "Gapple",
+			"spawn1": [250, 67, 154],
+			"spawn2": [320, 67, 154],
+			"level": "duels"
+		},
+		"Gapple2": {
+			"name": "IllumGapple",
+			"mode": "Gapple",
+			"spawn1": [487, 67, 544],
+			"spawn2": [487, 67, 476],
+			"level": "duels"
+		},
+		"Gapple3": {
+			"name": "StadiumGapple",
+			"mode": "Gapple",
+			"spawn1": [-119, 54, 119],
+			"spawn2": [-119, 54, 163],
+			"level": "duels"
+		},
+		"Gapple4": {
+			"name": "MidievalGapple",
+			"mode": "Gapple",
+			"spawn1": [445, 60, 176],
+			"spawn2": [490, 60, 176],
+			"level": "duels"
+		},
+		"Gapple5": {
+			"name": "GappleLong",
+			"mode": "Gapple",
+			"spawn1": [508.5, 52, 4.5],
+			"spawn2": [456.5, 52, 4.5],
+			"level": "duels"
+		},
+		"Diamond1": {
+			"name": "Thawing",
+			"mode": "Diamond",
+			"spawn1": [319, 67, 355],
+			"spawn2": [250, 67, 355],
+			"level": "duels"
+		},
+		"Diamond2": {
+			"name": "DarienDiamond",
+			"mode": "Diamond",
+			"spawn1": [86.7, 46, 79.95],
+			"spawn2": [10.35, 46, 79.95],
+			"level": "duels"
+		},
+		"Diamond3": {
+			"name": "MidievalDiamond",
+			"mode": "Diamond",
+			"spawn1": [507, 55, 342],
+			"spawn2": [552, 55, 342],
+			"level": "duels"
+		},
+		"Diamond4": {
+			"name": "DiamondSmall",
+			"mode": "Diamond",
+			"spawn1": [77, 60, -59],
+			"spawn2": [108, 60, -59],
+			"level": "duels"
+		},
+		"Diamond5": {
+			"name": "DiamondLong",
+			"mode": "Diamond",
+			"spawn1": [462.5, 52, -59.5],
+			"spawn2": [514.5, 52, -59.5],
+			"level": "duels"
+		},
+		"Sumo1": {
+			"name": "Sumo1",
+			"mode": "Sumo",
+			"spawn1": [256.5, 66, 261.5],
+			"spawn2": [256.5, 66, 251.5],
+			"level": "sumoduels"
+		},
+		"Sumo2": {
+			"name": "Sumo2",
+			"mode": "Sumo",
+			"spawn1": [96.5, 66, 253.5],
+			"spawn2": [96.5, 66, 263.5],
+			"level": "sumoduels"
+		},
+		"Sumo3": {
+			"name": "Sumo3",
+			"mode": "Sumo",
+			"spawn1": [106.5, 66, 409.5],
+			"spawn2": [106.5, 66, 419.5],
+			"level": "sumoduels"
+		},
+		"Sumo4": {
+			"name": "Sumo4",
+			"mode": "Sumo",
+			"spawn1": [-47.5, 66, 414.5],
+			"spawn2": [-47.5, 66, 424.5],
+			"level": "sumoduels"
+		},
+		"Sumo5": {
+			"name": "Sumo5",
+			"mode": "Sumo",
+			"spawn1": [423.5, 66, 266.5],
+			"spawn2": [423.5, 66, 256.5],
+			"level": "sumoduels"
+		},
+		"Sumo6": {
+			"name": "Sumo6",
+			"mode": "Sumo",
+			"spawn1": [11.5, 66, 253.5],
+			"spawn2": [11.5, 66, 261.5],
+			"level": "sumoduels"
+		},
+		"Line1": {
+			"name": "Line1",
+			"mode": "Line",
+			"spawn1": [275, 66, 416],
+			"spawn2": [275, 66, 427],
+			"level": "sumoduels"
+		},
+		"Line2": {
+			"name": "Line2",
+			"mode": "Line",
+			"spawn1": [423, 66, 418],
+			"spawn2": [423, 66, 429],
+			"level": "sumoduels"
+		},
+		"Line3": {
+			"name": "Line3",
+			"mode": "Line",
+			"spawn1": [571, 66, 423],
+			"spawn2": [571, 66, 434],
+			"level": "sumoduels"
+		},
+		"Line4": {
+			"name": "Line4",
+			"mode": "Line",
+			"spawn1": [424, 66, 578],
+			"spawn2": [424, 66, 567],
+			"level": "sumoduels"
+		},
+		"Line5": {
+			"name": "Line5",
+			"mode": "Line",
+			"spawn1": [268, 66, 576],
+			"spawn2": [268, 66, 565],
+			"level": "sumoduels"
+		},
+		"Bot1": {
+			"name": "Bot1",
+			"mode": "bot",
+			"spawn1": [240.5, 68, 290.5],
+			"spawn2": [185.5, 68, 290.5],
+			"level": "botduels"
+		},
+		"Bot2": {
+			"name": "Bot2",
+			"mode": "bot",
+			"spawn1": [438.5, 68, 290.5],
+			"spawn2": [493.5, 68, 290.5],
+			"level": "botduels"
+		},
+		"Bot3": {
+			"name": "Bot3",
+			"mode": "bot",
+			"spawn1": [-63.5, 68, 292.5],
+			"spawn2": [-8.5, 68, 292.5],
+			"level": "botduels"
+		},
+		"Bot4": {
+			"name": "Bot4",
+			"mode": "bot",
+			"spawn1": [-258.5, 68, 290.5],
+			"spawn2": [-313.5, 68, 290.5],
+			"level": "botduels"
+		},
+		"Bot5": {
+			"name": "Bot5",
+			"mode": "bot",
+			"spawn1": [-500.5, 68, 290.5],
+			"spawn2": [-555.5, 68, 290.5],
+			"level": "botduels"
+		},
+		"Bot6": {
+			"name": "Bot6",
+			"mode": "bot",
+			"spawn1": [-256.5, 68, 86.5],
+			"spawn2": [-315.5, 68, 86.5],
+			"level": "botduels"
+		},
+		"Bot7": {
+			"name": "Bot7",
+			"mode": "bot",
+			"spawn1": [-259.5, 68, 495.5],
+			"spawn2": [-318.5, 68, 495.5],
+			"level": "botduels"
+		},
+		"Bot8": {
+			"name": "Bot8",
+			"mode": "bot",
+			"spawn1": [-320.5, 68, 688.5],
+			"spawn2": [-261.5, 68, 688.5],
+			"level": "botduels"
+		},
+		"Bot9": {
+			"name": "Bot9",
+			"mode": "bot",
+			"spawn1": [-561.5, 68, 81.5],
+			"spawn2": [-502.5, 68, 81.5],
+			"level": "botduels"
+		},
+		"Bot10": {
+			"name": "Bot10",
+			"mode": "bot",
+			"spawn1": [-256.5, 67, -132.5],
+			"spawn2": [-315.5, 67, -132.5],
+			"level": "botduels"
+		},
+		"God1": {
+			"name": "God1",
+			"mode": "God",
+			"spawn1": [240.5, 68, 290.5],
+			"spawn2": [185.5, 68, 290.5],
+			"level": "godduels"
+		},
+		"God2": {
+			"name": "God2",
+			"mode": "God",
+			"spawn1": [438.5, 68, 290.5],
+			"spawn2": [493.5, 68, 290.5],
+			"level": "godduels"
+		},
+		"God3": {
+			"name": "God3",
+			"mode": "God",
+			"spawn1": [-63.5, 68, 292.5],
+			"spawn2": [-8.5, 68, 292.5],
+			"level": "godduels"
+		},
+		"God4": {
+			"name": "God4",
+			"mode": "God",
+			"spawn1": [-258.5, 68, 290.5],
+			"spawn2": [-313.5, 68, 290.5],
+			"level": "godduels"
+		},
+		"God5": {
+			"name": "God5",
+			"mode": "God",
+			"spawn1": [-500.5, 68, 290.5],
+			"spawn2": [-555.5, 68, 290.5],
+			"level": "godduels"
+		}
+	}
+}
